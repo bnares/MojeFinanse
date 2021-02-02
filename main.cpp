@@ -1,9 +1,14 @@
 #include <iostream>
+#include "Interfejs.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    Menu menu;
+
+    menu.MenuPoczatkowe();
+
+
     return 0;
 }

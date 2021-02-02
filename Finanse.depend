@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612203649 source:d:\calculation\nauka_c++\file_play\wyzwania2\sprawdz\ksiazkaadresowaobiektowoii-main\ksiazkaadresowaobiektowoii-main\finanse\aplikacjafinansowa.cpp
+
+1612208609 source:d:\calculation\nauka_c++\file_play\wyzwania2\sprawdz\ksiazkaadresowaobiektowoii-main\ksiazkaadresowaobiektowoii-main\finanse\main.cpp
+	<iostream>
+
+1612258129 source:d:\calculation\nauka_c++\file_play\wyzwania2\sprawdz\ksiazkaadresowaobiektowoii-main\ksiazkaadresowaobiektowoii-main\finanse\interfejs.cpp
+	<iostream>
+	"Interfejs.h"
+
+1612257342 d:\calculation\nauka_c++\file_play\wyzwania2\sprawdz\ksiazkaadresowaobiektowoii-main\ksiazkaadresowaobiektowoii-main\finanse\interfejs.h
+	<iostream>
+
